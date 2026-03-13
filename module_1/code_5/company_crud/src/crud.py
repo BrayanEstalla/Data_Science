@@ -1,6 +1,4 @@
 from time import sleep
-#from Data_Science.module_1.code_5.company_crud.src.decorators import screen
-#from Data_Science.module_1.code_5.company_crud.src.data import data,load_company
 from src.utils import clear,pause,title
 from src.data import data,save_company
 from src.decorators import screen
